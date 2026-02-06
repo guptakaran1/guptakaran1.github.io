@@ -1,35 +1,31 @@
-/* tag selector requirement */
 body {
   font-family: Arial, sans-serif;
-  margin: 20px;      /* box model property #1 */
-  padding: 10px;     /* box model property #2 */
+  margin: 20px;      
+  padding: 10px;     
 }
 
-/* id selector requirement */
+
 #title {
   color: darkblue;
 }
 
-/* class selector requirement */
 .highlight {
   background: #f0f0f0;
   padding: 6px;
 }
 
-/* div styling (optional but fine) */
 .section {
   border: 1px solid #ccc;
   padding: 10px;
   margin-top: 15px;
 }
 
-/* hover requirement for links */
 a:hover {
   color: red;
 }
 
-img {
-  width: 250px;
+.image {
+  width: 180px;
   height: auto;
   display: block;
   margin: 10px auto;
